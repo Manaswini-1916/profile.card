@@ -1,0 +1,86 @@
+/*div {
+
+    height: 70px;
+    width: 100%;
+    background-color: blueviolet;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+
+} */
+ /* h1 {
+    color: aqua;
+    color: bisque;
+ }
+ .l {
+    color: chocolate;
+ } */
+  /* div{
+    height: 200px;
+    width: 400px;
+    background-color: brown;
+  } */
+  /* h1 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+  } */
+   /* div {
+    height: 70px;
+    width: 100%;
+    background-color: burlywood;
+   }
+
+   @media (max-width: 750px) {
+
+    div{
+        height: 70px;
+        width: 100px;
+        background-color: chartreuse;
+    }
+
+   }
+
+   @media (min-width: 750px) and (max-width: 900px) {
+
+   div {
+    height: 70px;
+    width: 100px;
+    background-color: cadetblue;
+   } */
+
+   /* .container{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    gap: 20px;
+    height: 600px;
+    width: 600px;
+    background-color: rgb(231, 171, 128);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ;
+   }
+
+   .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+
+   } */
+    .container{
+      background-color: rgb(249, 29, 29);
+      height: 200px;
+      width: auto;
+    }
+    .em{
+      text-align: center;
+      position: relative;
+      left: 10px;
+      top: 100px;
+    }
+    .eam{
+      background-color: grey;
+      height: 500px;
+      width: 600px;
+
+      border-bottom-right-radius: 20px;
+    }
